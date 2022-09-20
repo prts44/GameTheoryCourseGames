@@ -25,24 +25,22 @@ function About(props) {
                 <p>
                     My name is Ryan Chong-Kit. I'm a third year Honours Mathematics student at the University of Waterloo
                     planning on majoring in Statistics. If you care enough, I'll have a link to my own website for more
-                    info when I actually make that.
+                    info once that is complete.
                 </p>
                 <h2>
                     How long will the website be up? Are you allowed to share this publicly? 
                 </h2>
                 <p>
-                    The website will be up until the end of the Fall 2022 term. As for whether or not I'm
-                    allowed to share these tools publicly, I have yet to ask professor Joel Blit. Right now,
-                    this site contains no tools or information about the games. I will ask for permission
-                    beforehand as well as what I'm allowed to put here.
+                    The website will be up until the end of the Fall 2022 term. I have received permission from professor
+                    Joel Blit to host these tools publicly. However, I will not be sharing the outcomes of the games, as
+                    the professor has asked everyone not to do that to keep the course fair for future terms.
                 </p>
                 <h2>
                     Would you recommend taking ECON 212?
                 </h2>
                 <p>
-                    At the time of writing this, we are at the start of the term. My opinion will obviously change
-                    with time, but so far I think the course is interesting and engaging with professor Joel Blit.
-                    I would recommend it for now but I'll definitely update this as the term progresses.
+                    It's only the beginning of the term so I can't give a fair opinion right now. Check the UWFlow
+                    page and make a judgement based off of that instead.
                 </p>
             </div>
         </div>

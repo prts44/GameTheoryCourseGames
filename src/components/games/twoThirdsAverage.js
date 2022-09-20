@@ -131,7 +131,7 @@ function TwoThirdsAverage(props) {
                         <button className={style.button} onClick={() => simulate(players, min, max)}>Simulate</button>
                         <button className={style.button} onClick={() => simulate(players, min, max, input)}>Simulate with input</button>
                         <button className={style.button} onClick={() => sim300(players, min, max, input)}>Run 300 simulations with input (only displays your wins)</button>
-                        <button className={style.button} onClick={() => simAll300(players, min, max)}>Simulate all numbers 300 times</button>
+                        <button className={style.button} onClick={() => simAll300(players, min, max)}>Simulate all numbers 300 times (prints to console)</button>
                     </div>
                 </div>
             </div>

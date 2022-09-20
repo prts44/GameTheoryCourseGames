@@ -14,7 +14,7 @@ function App() {
                     <Route path="/" element={<Home />} />
                     <Route path="/games" element={<Games />} />
                     <Route path="/about" element={<About />} />
-                    <Route path="/latestGame" element={<TwoThirdsAverage />}/>
+                    <Route path="/games/TwoThirdsAverage" element={<TwoThirdsAverage />}/>
                 </Routes>
             </div>
         </>
